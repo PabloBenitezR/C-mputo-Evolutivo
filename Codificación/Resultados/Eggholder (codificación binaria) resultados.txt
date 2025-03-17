@@ -1,0 +1,74 @@
+ === RESUMEN FINAL === 
+
+ Iteracion 1:
+   Total de generaciones: 130
+   Mejor genotipo: [0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+ 1 1 1]
+   Mejor fenotipo(x1,...,xn): [-464.  384.]
+   Mejor evaluacion (x1,...,xn): -893.618
+
+ Iteracion 2:
+   Total de generaciones: 79
+   Mejor genotipo: [0 0 0 0 1 0 1 1 1 1 0 0 1 1 0 1 1 0 0 0 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+ 1 1 1]
+   Mejor fenotipo(x1,...,xn): [-464.789  384.   ]
+   Mejor evaluacion (x1,...,xn): -893.701
+
+ Iteracion 3:
+   Total de generaciones: 138
+   Mejor genotipo: [1 1 1 1 1 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 0 1 1 0 0 1 0 1 0 0 0 0 1 0
+ 0 1 0]
+   Mejor fenotipo(x1,...,xn): [484.001 434.518]
+   Mejor evaluacion (x1,...,xn): -956.409
+
+ Iteracion 4:
+   Total de generaciones: 112
+   Mejor genotipo: [0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 0 0 0 0 0 0 1 0 1 1 0 0 0 0
+ 0 0 0]
+   Mejor fenotipo(x1,...,xn): [-464.     385.376]
+   Mejor evaluacion (x1,...,xn): -894.238
+
+ Iteracion 5:
+   Total de generaciones: 89
+   Mejor genotipo: [1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 1 0 0 1 1 1 1 1 1 1 1 1
+ 1 1 1]
+   Mejor fenotipo(x1,...,xn): [512. 404.]
+   Mejor evaluacion (x1,...,xn): -959.58
+
+ Iteracion 6:
+   Total de generaciones: 98
+   Mejor genotipo: [0 0 0 0 1 0 1 1 1 0 0 1 0 0 1 1 1 0 0 1 1 1 1 0 0 0 0 0 0 1 1 0 1 1 0 1 1
+ 1 0 1]
+   Mejor fenotipo(x1,...,xn): [-465.694  385.717]
+   Mejor evaluacion (x1,...,xn): -894.579
+
+ Iteracion 7:
+   Total de generaciones: 277
+   Mejor genotipo: [1 1 1 1 1 0 0 0 0 1 1 1 1 1 1 0 0 1 0 1 1 1 1 0 1 1 0 0 0 0 0 1 1 1 1 1 1
+ 1 1 1]
+   Mejor fenotipo(x1,...,xn): [481.975 432.5  ]
+   Mejor evaluacion (x1,...,xn): -956.891
+
+ Iteracion 8:
+   Total de generaciones: 159
+   Mejor genotipo: [1 1 1 0 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 0 0 0 1 1 0 0 1 1 0 1 1 0
+ 1 1 0]
+   Mejor fenotipo(x1,...,xn): [440.001 454.429]
+   Mejor evaluacion (x1,...,xn): -935.29
+
+ Iteracion 9:
+   Total de generaciones: 287
+   Mejor genotipo: [1 1 1 1 1 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 0 1 1 0 0 1 0 1 0 0 0 0 1 0
+ 0 0 1]
+   Mejor fenotipo(x1,...,xn): [484.001 434.518]
+   Mejor evaluacion (x1,...,xn): -956.409
+
+ Iteracion 10:
+   Total de generaciones: 201
+   Mejor genotipo: [1 1 1 1 1 0 0 0 0 1 0 1 1 1 1 0 1 0 0 0 1 1 1 0 1 0 1 1 1 1 1 1 1 1 1 1 1
+ 1 1 1]
+   Mejor fenotipo(x1,...,xn): [481.478 432.   ]
+   Mejor evaluacion (x1,...,xn): -956.773
+
+ Promedio de convergencia: 157.0 generaciones
+ La iteracion que tiene la minima evaluacion es:  5 con 89 generaciones.

@@ -1,0 +1,84 @@
+ === RESUMEN FINAL === 
+
+ Iteracion 1:
+   Total de generaciones: 121
+   Mejor genotipo: [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1
+ 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1
+ 1]
+   Mejor fenotipo(x1,...,xn): [ 0. -0. -0.  0. -0.]
+   Mejor evaluacion (x1,...,xn): 0.0
+
+ Iteracion 2:
+   Total de generaciones: 136
+   Mejor genotipo: [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1
+ 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0]
+   Mejor fenotipo(x1,...,xn): [ 0. -0. -0.  0.  0.]
+   Mejor evaluacion (x1,...,xn): 0.0
+
+ Iteracion 3:
+   Total de generaciones: 107
+   Mejor genotipo: [0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1
+ 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0]
+   Mejor fenotipo(x1,...,xn): [-0. -0. -0.  0.  0.]
+   Mejor evaluacion (x1,...,xn): 0.0
+
+ Iteracion 4:
+   Total de generaciones: 134
+   Mejor genotipo: [0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1
+ 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1
+ 1]
+   Mejor fenotipo(x1,...,xn): [-0.  0. -0.  0. -0.]
+   Mejor evaluacion (x1,...,xn): 0.0
+
+ Iteracion 5:
+   Total de generaciones: 102
+   Mejor genotipo: [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1
+ 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0]
+   Mejor fenotipo(x1,...,xn): [ 0.  0. -0.  0.  0.]
+   Mejor evaluacion (x1,...,xn): 0.0
+
+ Iteracion 6:
+   Total de generaciones: 106
+   Mejor genotipo: [0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1
+ 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0]
+   Mejor fenotipo(x1,...,xn): [-0. -0. -0. -0.  0.]
+   Mejor evaluacion (x1,...,xn): 0.0
+
+ Iteracion 7:
+   Total de generaciones: 103
+   Mejor genotipo: [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1
+ 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1
+ 1]
+   Mejor fenotipo(x1,...,xn): [ 0.  0. -0. -0. -0.]
+   Mejor evaluacion (x1,...,xn): 0.0
+
+ Iteracion 8:
+   Total de generaciones: 114
+   Mejor genotipo: [0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0]
+   Mejor fenotipo(x1,...,xn): [-0.  0.  0. -0.  0.]
+   Mejor evaluacion (x1,...,xn): 0.0
+
+ Iteracion 9:
+   Total de generaciones: 106
+   Mejor genotipo: [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1
+ 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0]
+   Mejor fenotipo(x1,...,xn): [ 0. -0. -0.  0.  0.]
+   Mejor evaluacion (x1,...,xn): 0.0
+
+ Iteracion 10:
+   Total de generaciones: 127
+   Mejor genotipo: [0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1
+ 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1
+ 1]
+   Mejor fenotipo(x1,...,xn): [-0.  0. -0.  0. -0.]
+   Mejor evaluacion (x1,...,xn): 0.0
+
+ Promedio de convergencia: 115.6 generaciones
+ La iteracion que converge mas rapido es:  5 con 102 generaciones.
