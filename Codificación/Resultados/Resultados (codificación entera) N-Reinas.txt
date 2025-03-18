@@ -1,0 +1,13 @@
+❌ Experimento 1 finalizado: No se encontró solución en 5000 generaciones
+❌ Experimento 2 finalizado: No se encontró solución en 5000 generaciones
+✅ Experimento 3 finalizado: Solución encontrada en generación 133
+Cromosoma decodificado: [ 8  6  4  9  5  0 13 10 12  7  1  3 11  2]
+❌ Experimento 4 finalizado: No se encontró solución en 5000 generaciones
+✅ Experimento 5 finalizado: Solución encontrada en generación 2831
+Cromosoma decodificado: [ 9  1  8  2 11  3  7 10 13  5 12  0  4  6]
+❌ Experimento 6 finalizado: No se encontró solución en 5000 generaciones
+✅ Experimento 7 finalizado: Solución encontrada en generación 972
+Cromosoma decodificado: [ 5 12  1  6 13  2  8 11  0  3 10  4  7  9]
+❌ Experimento 8 finalizado: No se encontró solución en 5000 generaciones
+❌ Experimento 9 finalizado: No se encontró solución en 5000 generaciones
+❌ Experimento 10 finalizado: No se encontró solución en 5000 generaciones
