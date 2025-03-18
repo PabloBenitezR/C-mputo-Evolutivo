@@ -1,0 +1,54 @@
+ === RESUMEN FINAL === 
+
+ Iteracion 1:
+   Total de generaciones: 92
+   Mejor fenotipo (x1,...,xn): [ 0.001 -0.002]
+   Mejor evaluacion f(x1,...,xn): 0.0
+
+ Iteracion 2:
+   Total de generaciones: 24
+   Mejor fenotipo (x1,...,xn): [ 0. -0.]
+   Mejor evaluacion f(x1,...,xn): 0.0
+
+ Iteracion 3:
+   Total de generaciones: 90
+   Mejor fenotipo (x1,...,xn): [-0.001 -0.001]
+   Mejor evaluacion f(x1,...,xn): 0.0
+
+ Iteracion 4:
+   Total de generaciones: 46
+   Mejor fenotipo (x1,...,xn): [-0.  0.]
+   Mejor evaluacion f(x1,...,xn): 0.0
+
+ Iteracion 5:
+   Total de generaciones: 77
+   Mejor fenotipo (x1,...,xn): [ 0.002 -0.001]
+   Mejor evaluacion f(x1,...,xn): 0.0
+
+ Iteracion 6:
+   Total de generaciones: 74
+   Mejor fenotipo (x1,...,xn): [-0. -0.]
+   Mejor evaluacion f(x1,...,xn): 0.0
+
+ Iteracion 7:
+   Total de generaciones: 78
+   Mejor fenotipo (x1,...,xn): [-0.    -0.001]
+   Mejor evaluacion f(x1,...,xn): 0.0
+
+ Iteracion 8:
+   Total de generaciones: 31
+   Mejor fenotipo (x1,...,xn): [ 0. -0.]
+   Mejor evaluacion f(x1,...,xn): 0.0
+
+ Iteracion 9:
+   Total de generaciones: 101
+   Mejor fenotipo (x1,...,xn): [0.001 0.   ]
+   Mejor evaluacion f(x1,...,xn): 0.0
+
+ Iteracion 10:
+   Total de generaciones: 59
+   Mejor fenotipo (x1,...,xn): [ 0. -0.]
+   Mejor evaluacion f(x1,...,xn): 0.0
+
+ Promedio de convergencia: 67.2 generaciones
+ La iteracion que tiene la minima evaluacion es:  1 con 92 generaciones.
