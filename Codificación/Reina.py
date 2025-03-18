@@ -4,7 +4,7 @@ import numpy as np
 N = 14                      # Número de reinas
 pob_size = 100              # Tamaño de la población
 proba_muta = 0.2            # Tasa de mutación
-codificacion = 'real'     # 'entero', 'real' o 'binario'
+codificacion = 'binario'     # 'entero', 'real' o 'binario'
 E = 10                       # Número de experimentos
 GEN_MAX = 5000              # Límite de generaciones por experimento
 
